@@ -1,24 +1,3 @@
+This project uses a micro:bit to test sound levels. The LED's display a graph according to how much sound is being received. 
 
-> Open this page at [https://natetabi.github.io/soundlevel/](https://natetabi.github.io/soundlevel/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/natetabi/soundlevel** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/natetabi/soundlevel** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+The more sound being inputted, the more LED's that'll show on the micro:bit.
